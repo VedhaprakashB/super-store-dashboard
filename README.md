@@ -55,7 +55,7 @@ This project presents an interactive dashboard developed using **Power BI** and 
 
 ## 📌 Dataset
 
-- Source: [Sample Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
+- Source: Available in the github Project Profile 
 - Contains information on orders, sales, shipping, and customer segments from a global retail superstore.
 
 ---
